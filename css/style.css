@@ -1,0 +1,68 @@
+
+body{
+background-color: dimgrey;
+}
+
+.panel{
+   display: inline-block;
+   width: 280px;
+   padding: 14px;
+   border-radius: 10px;
+   margin-bottom: 30px;
+   color: aquamarine;
+   font-weight: bold;
+   font-size: 240px;
+   line-height: 240px;
+   background-color: #fff;
+   text-align: center;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#btn0{
+    padding: 20px 60px;
+}
+
+#spinButton{
+    padding: 20px 60px;
+}
+
+#fotter{
+    display: flex;
+    justify-content:flex-end;
+}
+
+.flex{
+   display: flex;
+}
+
+.bingo{
+    padding: 5px 10px;
+    background-color: #fff;
+    margin: 5px;
+}
+
+.unmatched{
+    background-color: yellow;
+}
+
+table{
+    border: 2px solid red;
+}
+
+
+.number{
+    border: 1px solid red;
+    cursor: pointer;
+}
+
+.center{
+    background-color:yellow;
+}
+
+.hit{
+    background-color:yellow;
+}
